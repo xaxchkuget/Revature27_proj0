@@ -1,0 +1,38 @@
+Needed classes
+=======================
+
+Menu Display
+
+
+
+Menu selection
+
+Main
+
+General User
+
+	Admin interface
+	
+	Customer interface
+	
+	employee interface
+
+
+Bank Account
+
+Transactions
+	
+	Withdrawl(interface)
+	
+	Deposit(interface)
+
+
+File writer
+
+File reader
+
+//Serializer
+
+//Deserializer
+
+
